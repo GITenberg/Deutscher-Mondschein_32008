@@ -1,0 +1,33 @@
+_repo: Deutscher-Mondschein_32008
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raabe, Wilhelm
+    aliases:
+    - Raabe, Wilhelm Karl
+    - Corvinus, Jakob
+    - Corvinus, Jacob
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8890'
+    url: http://www.gutenberg.org/2009/agents/8890
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32008'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories'
+- !lcsh 'German fiction'
+title: Deutscher Mondschein
+url: http://www.gutenberg.org/ebooks/32008
